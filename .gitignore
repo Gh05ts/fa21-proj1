@@ -25,3 +25,6 @@ target/*
 hw*.zip
 
 lahman.db
+
+# Ignore all exe files
+*.exe
